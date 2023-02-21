@@ -14,10 +14,10 @@ public class EjemploCaracteres {
         char letra = 'a';
         System.out.println(letra);
 
-        char valor = 65; // Compila!
+        char valor = 65;
         System.out.println(valor);
 
-        valor = (char) (valor + 1); // Compila!
+        valor = (char) (valor + 1);
         System.out.println(valor);
 
         String palabra = "Palabra";
