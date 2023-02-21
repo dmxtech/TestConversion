@@ -10,5 +10,20 @@ public class EjemploCaracteres {
         String continuacion = "y mi edad es ";
         int edad = 100;
         System.out.println(saludo + nombre + continuacion + edad);
+
+        char letra = 'a';
+        System.out.println(letra);
+
+        char valor = 65; // Compila!
+        System.out.println(valor);
+
+        valor = (char) (valor + 1); // Compila!
+        System.out.println(valor);
+
+        String palabra = "Palabra";
+        System.out.println(palabra);
+
+        palabra = palabra + 2020;
+        System.out.println(palabra);
     }
 }
