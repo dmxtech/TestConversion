@@ -1,4 +1,4 @@
-public class TestIR2 {
+public class TestISR {
 
     public static void main(String[] args) {
 
